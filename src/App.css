@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.name{
+  color : red;
+}
+.excbutton{
+  background : blueviolet;
+  color : #fff;
+  padding: 10px 30px;
+  border: none;
+  margin: 10px 0;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.dropdown{
+  width: 300px;
+  padding: 10px 10px;
+  border: 1px blueviolet solid;
+  border-radius: 15px;
+}
